@@ -1,0 +1,2 @@
+#checking powershell
+$PSVersionTable
