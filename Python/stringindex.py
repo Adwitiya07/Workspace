@@ -3,3 +3,6 @@ print(String.find('g'))
 
 Stirng1= 'Tomorrow is a boring day'
 print(Stirng1.find('day'))
+
+Stirng1= 'Tomorrow is a boring day'
+print(Stirng1.find('a'))
